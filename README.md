@@ -1,6 +1,6 @@
-# Hey, I'm Seth Michel - Learn a bit about me!
+# Hey, I'm Seth Michel - Passionate Game Developer and Back End applications enthusiast!
 
-Computer Systems Technology student at Saskatchewan Polytechnic focused on backend development, enterprise software, databases, and full-stack application development. Expected graduation: June 2026.
+I'm a Computer Systems Technology graduate from the Sask Poly Tech Computer Systems 2026 program here in Regina, my passion lies in all things code specifically working on Game Systems, backend development, enterprise software, databases, and full-stack application development.
 
 I enjoy building systems that connect real-world problems with practical software solutions. My current focus is strengthening my skills in Java, SQL, REST APIs, cloud technologies, and enterprise-style software development.
 
@@ -9,7 +9,7 @@ I enjoy building systems that connect real-world problems with practical softwar
 ## Technologies & Areas of Interest
 
 - Backend Development
-- REST APIs
+- API building
 - Relational Databases
 - Enterprise Software Systems
 - Cloud Technologies
